@@ -5,9 +5,6 @@
     <main>
       <img src="~assets/quasar-logo-full.svg" alt="Quasar PWA">
       <router-view></router-view>
-      <img src="~assets/bob.jpg" alt="Bob">
-      <img src="~assets/enjuto.jpg" alt="Enjuto">
-      <img src="~assets/ignatius.jpg" alt="Ignatius">
     </main>
   </div>
 </template>

@@ -1,12 +1,9 @@
 <template>
   <div class="hello">
-    <h5>Welcome to your Quasar PWA</h5>
-    <ul>
-      <li><a href="http://quasar-framework.org" target="_blank" rel="noopener">Docs</a></li>
-      <li><a href="http://forum.quasar-framework.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://gitter.im/quasarframework/Lobby" target="_blank" rel="noopener">Gitter Chat</a></li>
-      <li><a href="https://twitter.com/quasarframework" target="_blank" rel="noopener">Twitter</a></li>
-    </ul>
+    <h5>Welcome to your my PWA</h5>
+    <img src="~assets/bob.jpg" alt="Bob">
+    <img src="~assets/enjuto.jpg" alt="Enjuto">
+    <img src="~assets/ignatius.jpg" alt="Ignatius">
   </div>
 </template>
 
